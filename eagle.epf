@@ -1,0 +1,37 @@
+[Eagle]
+Version="08 01 00"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/con-coax.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/con-conrad.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/con-jack.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/diode.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/led.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/pinhead.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/resistor.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/supply1.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-alps.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-coto.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-dil.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-misc.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-omron.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-raychem.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-reed.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch.lbr"
+UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/transistor.lbr"
+UsedLibrary="D:/dev/eagle/libs/esp8266modules.lbr"
+UsedLibrary="D:/dev/eagle/libs/eagle-parts/hi-link.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 1199 599"
+State=2
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
